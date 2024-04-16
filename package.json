@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc",
+  "version": "1.0.1-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,14 +40,14 @@
     "url": "https://github.com/dacardenasa/dc-product-card",
     "type": "git"
   },
-  "module": "dist/dc-product-card.esm.js",
+  "module": "dist/dc-product-card-pro.esm.js",
   "size-limit": [
     {
-      "path": "dist/dc-product-card.cjs.production.min.js",
+      "path": "dist/dc-product-card-pro.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/dc-product-card.esm.js",
+      "path": "dist/dc-product-card-pro.esm.js",
       "limit": "10 KB"
     }
   ],
