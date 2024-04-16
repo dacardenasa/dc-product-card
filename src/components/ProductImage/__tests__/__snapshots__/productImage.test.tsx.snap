@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage render component without uriImage prop correctlly 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="product-image"
+    className="productImg undefined"
+    src="https://image-test-aws.s3.us-west-1.amazonaws.com/no-image.jpg"
+  />
+</div>
+`;
+
+exports[`ProductImage render correctlly component 1`] = `
+<img
+  alt="product-image"
+  className="productImg undefined"
+  src="https://image-test-aws.s3.us-west-1.amazonaws.com/no-image.jpg"
+/>
+`;
