@@ -1,0 +1,1 @@
+export const noImageURL = "https://image-test-aws.s3.us-west-1.amazonaws.com/no-image.jpg"
